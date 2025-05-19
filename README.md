@@ -1,5 +1,5 @@
 # **Predictive CLV Modelling for Intelligent Customer Segmentation: A Machine Learning Approach for Business Growth**
-## **Objective:**
+## **Objectives:**
 1. Understand Business Readiness for CLV Prediction
 2. Identify How Businesses Can Benefit Most from CLV
 3. Guide Smarter Marketing and Customer Retention Strategies
