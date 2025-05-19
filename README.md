@@ -1,4 +1,4 @@
-# **Customer Lifetime Value Prediction and Segmentation**
+# **Predictive CLV Modelling for Intelligent Customer Segmentation: A Machine Learning Approach for Business Growth**
 ## **Objective:**
 We have to predict the customer's lifetime value and segment the customers based on their LTV so that we can provide this information to the marketing team for the campaign & CPA optimization.
 
