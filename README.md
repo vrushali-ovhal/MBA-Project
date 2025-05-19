@@ -1,9 +1,9 @@
 # **Predictive CLV Modelling for Intelligent Customer Segmentation: A Machine Learning Approach for Business Growth**
 ## **Objective:**
-Understand Business Readiness for CLV Prediction
-Identify How Businesses Can Benefit Most from CLV
-Guide Smarter Marketing and Customer Retention Strategies
-Encourage a Data-Driven Mindset Among Small Business Owners
+1. Understand Business Readiness for CLV Prediction
+2. Identify How Businesses Can Benefit Most from CLV
+3. Guide Smarter Marketing and Customer Retention Strategies
+4. Encourage a Data-Driven Mindset Among Small Business Owners
 
 ## **Introduction:**
 The dataset which we are going to use in this problem has taken from the UCI Machine Learning Repository. This is a transactional data set which contains all the actual transactions for a UK-based and registered ecommerce online retail store. The company mainly sells unique all-occasion gifts. This dataset has several features which includes the Invoice Number, Stock Code, Product Description, Product Quantity, Invoice Date, Unit Price, Customer ID, etc.
